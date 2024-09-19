@@ -11,7 +11,8 @@
                 "alefragnani.bookmarks",
                 "eamodio.gitlens",
                 "ms-python.python",
-                "ms-toolsai.jupyter"
+                "ms-toolsai.jupyter",
+                "mechatroner.rainbow-csv"
             ]
         }
     }
